@@ -1,19 +1,19 @@
-# [Angular 7 SPA - Free Bootstrap 4 UI Kit](https://demos.creative-tim.com/paper-kit-2-angular/)
+# [Pune Weekend - Free Bootstrap 4 UI Kit](https://demos.creative-tim.com/paper-kit-2-angular/)
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![license][license-badge]][LICENSE] [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/paper-kit-2-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/paper-kit-2-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/paper-kit-2-angular.svg?maxAge=259200)](https://github.com/creativetimofficial/paper-kit-2-angular/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-![Angular 7 SPA](https://s3.amazonaws.com/creativetim_bucket/products/65/original/opt_pk2_angular_thumbnail.jpg "Angular 7 SPA Free")
+![Pune Weekend](https://s3.amazonaws.com/creativetim_bucket/products/65/original/opt_pk2_angular_thumbnail.jpg "Pune Weekend Free")
 
-Angular 7 SPA is a free Bootstrap 4 UI Kit with pale colors, beautiful typography built for Angular 7.
+Pune Weekend is a free Bootstrap 4 UI Kit with pale colors, beautiful typography built for Angular 7.
 
 All components are fully responsive and look great on every screen size. Transitions, shadows, colors, they all resemble the flow you would have using pieces of paper.
 
 We have created Paper UI Kit kit having pastel colors and paper in mind. It feels light, fresh and easy to go through.
 
-Angular 7 SPA is using Ng Bootstrap (https://ng-bootstrap.github.io/#/home), as core framework.
+Pune Weekend is using Ng Bootstrap (https://ng-bootstrap.github.io/#/home), as core framework.
 
 **Bootstrap 4 support**
 
-Angular 7 SPA is built on top of Bootstrap 4, so it fully supports it. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If the are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
+Pune Weekend is built on top of Bootstrap 4, so it fully supports it. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If the are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
 
 ## Table of Contents
 
